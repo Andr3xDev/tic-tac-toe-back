@@ -2,7 +2,7 @@
 <div align="center">
     <h1 align="center">Tic-Tac-Toe Websocket</h1>
     <p align="center">
-Un pequeño servidor WebSocket diseñado para habilitar el modo multijugador para el juego tic-tac-toe.
+A small WebSocket server designed to enable multiplayer mode for the game tic-tac-toe.
     </p>
 </div>
 
@@ -29,8 +29,8 @@ To run the server locally, follow these steps:
 - Clone the repository:
 
 ```
-git clone https://github.com/Andr3xDev/ARSW-TicTacBack.git
-cd ARSW-TicTacBack
+git clone https://github.com/Andr3xDev/tic-tac-toe-back.git
+cd tic-tac-toe-back
 ```
 
 - Install dependencies & start the server:
